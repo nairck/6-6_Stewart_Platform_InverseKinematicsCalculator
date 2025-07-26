@@ -22,7 +22,7 @@ Key Features:
 How to Run:
 -----------
 1. Open MATLAB.
-2. Set the working directory to this folder.
+2. Set the working directory to this folder and all subfolders.
 3. Run:
        >> RUN_HEXAPOD_CALCULATOR
 
