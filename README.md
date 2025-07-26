@@ -1,4 +1,4 @@
-# 6-6_Stewart_Platform_InverseKinematicsCalculator
+# 6-6 Stewart Platform Inverse Kinematics Calculator and Workspace Analyzer
 
 Author:          Joe Brown (CSU Sacramento) – August 4, 2006 - https://github.com/jotux/Steward-Platform-Forward-Kinematics-Solver
 Modified by:     Adam Johnson – August 2022 to April 2025
